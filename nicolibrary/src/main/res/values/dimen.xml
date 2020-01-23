@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <!-- For margins. -->
+    <dimen name="margin_extra_small">4dp</dimen>
+    <dimen name="margin_small">8dp</dimen>
+    <dimen name="margin_medium">12dp</dimen>
+    <dimen name="margin_large">16dp</dimen>
+    <dimen name="margin_larger">24dp</dimen>
+    <dimen name="margin_super_large">32dp</dimen>
+    <dimen name="margin_xtra">48dp</dimen>
+    <dimen name="margin_xxtra">64dp</dimen>
+    <dimen name="margin_xxxtra">80dp</dimen>
+    <dimen name="margin_xxxxtra">96dp</dimen>
+    <dimen name="margin_edt">15dp</dimen>
+
+    <dimen name="icon_menu">30dp</dimen>
+    <dimen name="button_height">40dp</dimen>
+    <dimen name="icon_star">10dp</dimen>
+    <dimen name="icon_guide">64dp</dimen>
+    <dimen name="icon_comment">50dp</dimen>
+
+    <!-- For tex size. -->
+    <dimen name="text_size_super_small">10sp</dimen>
+    <dimen name="text_size_small">12sp</dimen>
+    <dimen name="text_size_medium">14sp</dimen>
+    <dimen name="text_size_large">16sp</dimen>
+    <dimen name="text_size_xtra">18sp</dimen>
+    <dimen name="text_size_xxtra">20sp</dimen>
+    <dimen name="text_size_xxxtra">24sp</dimen>
+
+    <!-- typical sizes of views -->
+    <dimen name="button_height_tall">60dp</dimen>
+    <dimen name="button_height_normal">40dp</dimen>
+    <dimen name="button_height_short">32dp</dimen>
+
+    <dimen name="design_bottom_navigation_text_size" tools:override="true">9sp</dimen>
+    <dimen name="design_bottom_navigation_active_text_size" tools:override="true">10sp</dimen>
+    <dimen name="default_button_radius">3dp</dimen>
+
+    <!--GENERIC DIALOG-->
+    <!--Card View-->
+    <dimen name="card_corner_radius">5dp</dimen>
+    <dimen name="card_elevation">5dp</dimen>
+
+    <dimen name="standard_55">55dp</dimen>
+    <dimen name="standard_105">105dp</dimen>
+    <dimen name="standard_155">155dp</dimen>
+    <dimen name="standard_205">205dp</dimen>
+    <dimen name="standard_255">255dp</dimen>
+
+    <dimen name="height_120">120dp</dimen>
+
+</resources>

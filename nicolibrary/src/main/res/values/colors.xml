@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorPrimary">#3893D9</color>
+    <color name="colorPrimaryDark">#3893D9</color>
+    <color name="colorAccent">#3893D9</color>
+
+    <color name="primary">#ffffff</color>
+    <color name="color_white">#ffffff</color>
+    <color name="primary_dark">#3e4246</color>
+    <color name="accent">#3893D9</color>
+    <color name="pink">#FFDA6596</color>
+
+    <color name="swipe_refresh_color1">@color/accent</color>
+    <color name="swipe_refresh_color2">#2E78B0</color>
+    <color name="swipe_refresh_color3">#5d88a5</color>
+    <color name="swipe_refresh_color4">#4C7EBC</color>
+
+    <color name="blue_normal">#3893D9</color>
+    <color name="blue_dark">#2E78B0</color>
+
+    <color name="divider">#efefef</color>
+
+    <color name="unselected_color_pager_indicator">#3D3893D9</color>
+    <color name="bg_edittext_color">#113893d9</color>
+
+    <color name="shimmerBackground">#dddddd</color>
+
+    <color name="text_color_white">#e0e0e0</color>
+    <color name="text_color_black">#3e4246</color>
+    <color name="text_color_black_2">#404040</color>
+    <color name="text_color_grey">#777a7f</color>
+    <color name="text_color_grey_2">#b1b2b5</color>
+    <color name="text_color_charcoal_grey">#3e4246</color>
+    <color name="text_hint_color">#c8c8c8</color>
+    <color name="text_color_blue">@color/accent</color>
+    <color name="text_color_red">#D32F2F</color>
+    <color name="text_color_pink">#ff609c</color>
+    <color name="text_color_orange">#ff6339</color>
+    <color name="text_color_orange_3">#f58c35</color>
+    <color name="text_color_blue_light">#FF3893D9</color>
+    <color name="text_color_in_progress">#FFAD8014</color>
+    <color name="text_color_won">#FF14683A</color>
+    <color name="text_color_dropped">#FF730600</color>
+    <color name="text_color_secondary">#FF94969A</color>
+    <color name="text_color_primary">#FF3E4246</color>
+    <color name="text_color_form">#FF989AB7</color>
+
+    <color name="separatorColor">#dcdcdc</color>
+
+    <color name="text_color_green">#1FCC90</color>
+    <color name="text_color_available">#FF4CBA7E</color>
+
+    <color name="loading_background">#d8d8d8</color>
+
+    <color name="text_color_grey_3">#565c60</color>
+    <color name="text_color_black_3">#1c1c1c</color>
+
+    <color name="transparent">#00000000</color>
+    <color name="highlight_color">#963e4246</color>
+
+    <color name="tab_unselected_color">@color/text_color_grey_2</color>
+    <color name="tab_selected_color">@color/accent</color>
+    <color name="nn_textinput_error_color_dark">#FFFF6E6E</color>
+    <color name="nn_textinput_error_color_light">#FFD50000</color>
+
+    <color name="stats_bar_bg">#FF235882</color>
+    <color name="header_bg">#F5F5F5</color>
+
+    <color name="white">#FFFFFF</color>
+    <color name="dialog_bg">#FAFAFA</color>
+    <color name="border">#e6e8e9</color>
+    <color name="dar_sky_blue">#3893d9</color>
+    <color name="widget_title">#3E4246</color>
+    <color name="notif_bg">#ff6339</color>
+    <color name="light_gray">#dddddd</color>
+    <color name="bg_default">#efefef</color>
+    <color name="sea_blue">#d2ecfa</color>
+    <color name="battleship_grey">#777a7f</color>
+    <color name="pale_olive_green">#acd26f</color>
+    <color name="dark_mint">#4cba7e</color>
+    <color name="background_grey">#f5f5f5</color>
+    <color name="dark_grey">#e8e8e8</color>
+
+    <color name="icon_toolbar_dark">#777a7f</color>
+
+    <color name="pinkish_orange">#ff6339</color>
+
+    <!--Zxing scanner-->
+    <color name="viewfinder_laser">#3893D9</color>
+    <color name="viewfinder_border">#FFDA6596</color>
+
+    <color name="confirmed">#4CBA7E</color>
+    <color name="pending">#FDE723</color>
+    <color name="canceled">#FF6339</color>
+    <color name="cool_grey">#b1b2b5</color>
+    <color name="line">#ededed</color>
+    <color name="bg_color">#c8c7cc</color>
+    <color name="sky_blue">#f1f4f7</color>
+
+    <!-- Here you can add color of your choice  -->
+    <color name="ucrop_color_toolbar">@color/accent</color>
+    <color name="ucrop_color_statusbar">@color/accent</color>
+    <color name="ucrop_color_widget_active">@color/accent</color>
+
+    <color name="black_overlay">#66000000</color>
+    <color name="bg_blue">#FFF9FBFE</color>
+
+    <color name="bg_card_inprogress">#FFFDC02F</color>
+    <color name="bg_card_won">#FF4CBA7E</color>
+    <color name="bg_card_dropped">#FFFF3B30</color>
+    <color name="bg_edittext">#FFEFEFF4</color>
+    <color name="bg_edittext_blue">#FFF6F8FB</color>
+    <color name="bg_button_disabled"> #FFE0E0E0</color>
+
+    <color name="black_rock">#272838</color>
+    <color name="brand_blue">#3893d9</color>
+    <color name="pattens_blue">#dae6f0</color>
+    <color name="green_emerald">#4cba7e</color>
+    <color name="echo_blue">#b0b2cb</color>
+    <color name="gainsboro">#e0e0e0</color>
+    <color name="alice_blue">#f7fafc</color>
+    <color name="lightning_yellow">#ffa231</color>
+    <color name="rose">#ff609c</color>
+    <color name="alizarin_red">#e63241</color>
+    <color name="sunglow">#ffc72d</color>
+    <color name="grey_blue">#FFB0B2CB</color>
+    <color name="text_red">#E63241</color>
+
+
+    <color name="text_color_grey_blue">#989AB7</color>
+
+</resources>

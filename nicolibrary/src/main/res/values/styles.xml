@@ -1,0 +1,153 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="windowNoTitle">true</item>
+        <item name="windowActionBar">false</item>
+    </style>
+
+    <style name="BottomNavigationView" parent="@style/TextAppearance.AppCompat.Caption">
+        <item name="android:textSize">10sp</item>
+    </style>
+
+    <style name="BottomNavigationView.Active" parent="@style/TextAppearance.AppCompat.Caption">
+        <item name="android:textSize">11sp</item>
+        <item name="android:textColor">@color/colorPrimary</item>
+    </style>
+
+    <style name="FilterItemLeads">
+        <item name="android:paddingLeft">@dimen/margin_large</item>
+        <item name="android:paddingRight">@dimen/margin_large</item>
+        <item name="android:paddingTop">@dimen/margin_medium</item>
+        <item name="android:paddingBottom">@dimen/margin_medium</item>
+    </style>
+
+    <style name="FilterItemLeads.Selected">
+        <item name="android:background">@drawable/bg_filter_selected</item>
+        <item name="android:textColor">@color/white</item>
+    </style>
+
+    <style name="FilterItemLeads.Unselected">
+        <item name="android:background">@drawable/bg_filter_unselected</item>
+        <item name="android:textColor">#FF94969A</item>
+    </style>
+
+    <style name="EditText">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+
+    <style name="EditText.Default">
+        <item name="android:paddingLeft">@dimen/margin_large</item>
+        <item name="android:paddingRight">@dimen/margin_large</item>
+        <item name="android:paddingTop">@dimen/margin_medium</item>
+        <item name="android:paddingBottom">@dimen/margin_medium</item>
+        <item name="android:background">@drawable/bg_edittext_default_rounded</item>
+    </style>
+
+    <style name="EditText.Default.SingleLine">
+        <item name="android:inputType">textPersonName</item>
+    </style>
+
+    <style name="EditText.Default.TextArea">
+        <item name="android:lines">5</item>
+        <item name="android:gravity">top</item>
+    </style>
+
+    <style name="EditText.Wrapper">
+        <item name="android:layout_marginRight">-4dp</item>
+        <item name="android:layout_marginLeft">-4dp</item>
+        <item name="android:layout_marginTop">@dimen/margin_extra_small</item>
+    </style>
+
+    <style name="EditText.Wrapper.Input">
+        <item name="android:background">@drawable/bg_edittext</item>
+        <item name="android:maxLines">1</item>
+        <item name="android:paddingLeft">@dimen/margin_large</item>
+        <item name="android:paddingRight">@dimen/margin_large</item>
+        <item name="android:paddingTop">@dimen/margin_medium</item>
+        <item name="android:paddingBottom">@dimen/margin_medium</item>
+        <item name="android:textSize">@dimen/text_size_medium</item>
+    </style>
+
+    <style name="EditText.Wrapper.Default">
+        <item name="android:background">@drawable/bg_edittext_default_rounded</item>
+        <item name="android:maxLines">1</item>
+        <item name="android:paddingLeft">@dimen/margin_large</item>
+        <item name="android:paddingRight">@dimen/margin_large</item>
+        <item name="android:paddingTop">@dimen/margin_medium</item>
+        <item name="android:paddingBottom">@dimen/margin_medium</item>
+        <item name="android:textSize">@dimen/text_size_medium</item>
+    </style>
+
+    <style name="EditText.Textview">
+        <item name="android:background">@drawable/bg_textview_blue</item>
+        <item name="android:maxLines">1</item>
+        <item name="android:paddingLeft">@dimen/margin_large</item>
+        <item name="android:paddingRight">@dimen/margin_large</item>
+        <item name="android:paddingTop">@dimen/margin_medium</item>
+        <item name="android:paddingBottom">@dimen/margin_medium</item>
+        <item name="android:textSize">@dimen/text_size_medium</item>
+    </style>
+
+    <style name="Button.Primary">
+        <item name="android:background">@drawable/bg_button_primary</item>
+        <item name="android:textColor">@color/white</item>
+    </style>
+
+    <style name="Button.Green">
+        <item name="android:background">@drawable/bg_button_green</item>
+        <item name="android:textColor">@color/white</item>
+    </style>
+
+    <style name="Button.Secondary">
+        <item name="android:background">@drawable/bg_button_secondary</item>
+        <item name="android:textColor">@color/colorPrimary</item>
+    </style>
+
+    <style name="Button.Disabled">
+        <item name="android:background">@drawable/bg_disabled_button</item>
+        <item name="android:textColor">@color/white</item>
+    </style>
+
+    <style name="Button">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">48dp</item>
+        <item name="android:textSize">@dimen/text_size_large</item>
+    </style>
+
+    <style name="TagStatus">
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textSize">@dimen/text_size_small</item>
+        <item name="android:paddingLeft">@dimen/margin_small</item>
+        <item name="android:paddingRight">@dimen/margin_small</item>
+        <item name="android:paddingTop">@dimen/margin_extra_small</item>
+        <item name="android:paddingBottom">@dimen/margin_extra_small</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="TagStatus.Contacted">
+        <item name="android:background">@drawable/bg_status_contacted</item>
+    </style>
+
+    <style name="TagStatus.Dropped">
+        <item name="android:background">@drawable/bg_status_dropped</item>
+    </style>
+
+    <style name="TagStatus.New">
+        <item name="android:background">@drawable/bg_status_new</item>
+    </style>
+
+    <style name="TagStatus.Pending">
+        <item name="android:background">@drawable/bg_status_pending</item>
+    </style>
+
+    <style name="TagStatus.Viewing">
+        <item name="android:background">@drawable/bg_status_viewing</item>
+    </style>
+
+</resources>

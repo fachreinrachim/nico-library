@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a1a08644-9f1b-4ac7-a828-0bdf457b8741" name="Default Changelist" comment="">
+<<<<<<< HEAD
 <<<<<<< Updated upstream
+=======
+>>>>>>> Add drawables
       <change afterPath="$PROJECT_DIR$/nicolibrary/src/main/res/drawable/bg_button_green.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/nicolibrary/src/main/res/drawable/bg_button_white.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/nicolibrary/src/main/res/drawable/bg_disabled_button.xml" afterDir="false" />
@@ -82,12 +85,15 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/app/app.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
+<<<<<<< HEAD
 =======
       <change afterPath="$PROJECT_DIR$/app/nico-library-app.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/nicolibrary/nico-library-nicolibrary.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
 >>>>>>> Stashed changes
+=======
+>>>>>>> Add drawables
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -117,6 +123,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
 <<<<<<< Updated upstream
             <state relative-caret-position="255">
               <caret line="21" column="8" selection-start-line="21" selection-start-column="8" selection-end-line="21" selection-end-column="42" />
@@ -124,6 +131,10 @@
             <state relative-caret-position="315">
               <caret line="21" column="16" lean-forward="true" selection-start-line="21" selection-start-column="16" selection-end-line="21" selection-end-column="16" />
 >>>>>>> Stashed changes
+=======
+            <state relative-caret-position="255">
+              <caret line="21" column="8" selection-start-line="21" selection-start-column="8" selection-end-line="21" selection-end-column="42" />
+>>>>>>> Add drawables
             </state>
           </provider>
         </entry>
@@ -144,7 +155,10 @@
               <caret line="20" selection-start-line="20" selection-end-line="20" />
             </state>
           </provider>
+<<<<<<< HEAD
 <<<<<<< Updated upstream
+=======
+>>>>>>> Add drawables
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
@@ -154,8 +168,11 @@
               <caret line="64" column="36" selection-start-line="64" selection-start-column="20" selection-end-line="64" selection-end-column="36" />
             </state>
           </provider>
+<<<<<<< HEAD
 =======
 >>>>>>> Stashed changes
+=======
+>>>>>>> Add drawables
         </entry>
       </file>
     </leaf>
@@ -169,8 +186,11 @@
 <<<<<<< Updated upstream
         <option value="$PROJECT_DIR$/build.gradle" />
         <option value="$PROJECT_DIR$/nicolibrary/src/main/res/values/styles.xml" />
+<<<<<<< HEAD
 =======
 >>>>>>> Stashed changes
+=======
+>>>>>>> Add drawables
         <option value="$PROJECT_DIR$/app/build.gradle" />
         <option value="$PROJECT_DIR$/build.gradle" />
       </list>
@@ -384,7 +404,10 @@
     <frame x="0" y="23" width="1440" height="801" extended-state="0" />
     <editor active="true" />
     <layout>
+<<<<<<< HEAD
 <<<<<<< Updated upstream
+=======
+>>>>>>> Add drawables
       <window_info active="true" content_ui="combo" id="Project" visible="true" weight="0.2067239" />
       <window_info id="Structure" side_tool="true" />
       <window_info id="Build Variants" side_tool="true" />
@@ -408,6 +431,7 @@
       <window_info anchor="right" id="Theme Preview" />
       <window_info anchor="right" id="Palette&#9;" />
       <window_info anchor="right" id="Preview" weight="0.3297568" />
+<<<<<<< HEAD
 =======
       <window_info id="Captures" order="0" side_tool="true" weight="0.25" />
       <window_info id="Capture Tool" order="1" />
@@ -432,12 +456,17 @@
       <window_info anchor="right" id="Theme Preview" order="3" />
       <window_info anchor="right" id="Palette&#9;" order="4" />
 >>>>>>> Stashed changes
+=======
+>>>>>>> Add drawables
     </layout>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
 <<<<<<< Updated upstream
+=======
+>>>>>>> Add drawables
         <state relative-caret-position="255">
           <caret line="21" column="8" selection-start-line="21" selection-start-column="8" selection-end-line="21" selection-end-column="42" />
         </state>
@@ -454,10 +483,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="12" column="8" lean-forward="true" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
+<<<<<<< HEAD
 =======
         <state relative-caret-position="315">
           <caret line="21" column="16" lean-forward="true" selection-start-line="21" selection-start-column="16" selection-end-line="21" selection-end-column="16" />
 >>>>>>> Stashed changes
+=======
+>>>>>>> Add drawables
         </state>
       </provider>
     </entry>
@@ -465,7 +497,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="39" selection-start-column="39" selection-end-column="39" />
+<<<<<<< HEAD
 <<<<<<< Updated upstream
+=======
+>>>>>>> Add drawables
         </state>
       </provider>
     </entry>
@@ -476,8 +511,11 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="176">
           <caret line="64" column="36" selection-start-line="64" selection-start-column="20" selection-end-line="64" selection-end-column="36" />
+<<<<<<< HEAD
 =======
 >>>>>>> Stashed changes
+=======
+>>>>>>> Add drawables
         </state>
       </provider>
     </entry>

@@ -15,6 +15,7 @@ class ButtonPrimary(context: Context?) : Button(context) {
     init {
         if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.JELLY_BEAN) {
             super.setBackground(ContextCompat.getDrawable(context!!, R.drawable.bg_button_primary))
+            super.setTextColor(ContextCompat.getColor(context!!, R.color.white))
         }
     }
 }

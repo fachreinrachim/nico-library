@@ -1,0 +1,2 @@
+include ':app', ':nicolibrary'
+rootProject.name='nico'
